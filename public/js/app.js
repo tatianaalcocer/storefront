@@ -106,7 +106,7 @@ $(function(){
     timerInterval = setTimeout(getItems, 5000);
   }
 
-  // Trigger the initial retrieval of prodcut inventory
+  // Trigger the initial retrieval of product inventory
   getItems();
 
   //=========================
